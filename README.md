@@ -9,8 +9,6 @@ jquery, moment.js, bootstrap, html, css, javascript
 
 github repository:
 https://github.com/CDMurr/Calender-Planner-Station.git
-git@github.com:CDMurr/Calender-Planner-Station.git
-
 
 Live Url:
 https://cdmurr.github.io/Calender-Planner-Station/
